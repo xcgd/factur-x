@@ -79,12 +79,13 @@ A public instance of this webservice is available on a server of `FNFE-MPE <http
 Licence
 =======
 
-This library is published under the BSD licence (same licence as `PyPDF4 <https://github.com/claird/PyPDF4/>`_ on which this lib depends).
+This library is published under the BSD licence (same licence as `pypdf <https://github.com/py-pdf/pypdf/>`_ on which this lib depends).
 
 Contributors
 ============
 
 * Alexis de Lattre <alexis.delattre@akretion.com>
+* XCG Consulting, part of `Orbeet <https://orbeet.io>`_
 
 Changelog
 =========
